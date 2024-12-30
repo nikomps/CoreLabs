@@ -1,0 +1,24 @@
+{
+  "name": "corelabs",
+  "version": "1.0.0",
+  "description": "A professional Discord server creation tool.",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev",  // Starts the development server
+    "build": "next build",  // Builds the project for production
+    "start": "next start"  // Starts the production server
+  },
+  "dependencies": {
+    "next": "^13.0.0",  // The latest version of Next.js
+    "react": "^18.0.0",  // React for building UI components
+    "react-dom": "^18.0.0"  // React DOM for rendering the components in the browser
+  },
+  "devDependencies": {},
+  "author": "Your Name",  // Your name or organization
+  "license": "MIT",  // Open-source license, change if needed
+  "keywords": ["discord", "server", "next.js", "corelabs"],  // Keywords related to your project
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yourusername/corelabs"  // Replace with the actual repository URL
+  }
+}
